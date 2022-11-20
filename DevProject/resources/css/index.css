@@ -1,0 +1,28 @@
+body {
+   background-color: bisque 
+   
+}
+h1{
+    font-family: 'Poppins';
+    font-size: 45px;
+    text-align: center;
+}
+h2{
+    background-color: darksalmon;
+    font-family: 'Poppins';
+    font-size: 25px;
+}
+p{
+    font-family: 'Lora Regular';
+    font-size: 16px;
+}
+.websiteintro{
+    text-align: center;
+}
+#tzirl{
+    display: block;
+    Height: 200px;
+    width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+}
